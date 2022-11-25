@@ -1,0 +1,117 @@
+//flex
+.flex {
+  display: flex;
+}
+
+.justify-space {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-even {
+  justify-content: space-evenly;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+//grid
+
+.grid {
+  display: grid;
+}
+
+/* general classes */
+.font-1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 0.9rem;
+}
+
+img {
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+.margin {
+  margin: 1rem;
+}
+
+.margin-left {
+  margin-left: 1rem;
+}
+
+.margin-top {
+  margin-top: 1rem;
+}
+
+.margin-botttom {
+  margin-bottom: 1rem;
+}
+
+.line-2 {
+  line-height: 1.5;
+}
+
+.padding {
+  padding: 1rem;
+}
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+
+.btn {
+  background-color: rgb(39, 39, 39);
+  color: white;
+  text-transform: capitalize;
+  width: 60%;
+  padding: 0.6rem 0rem;
+  border: transparent;
+  cursor: pointer;
+  margin-top: 0.7rem;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.curser {
+  cursor: pointer;
+}
+
+.grey {
+  color: rgb(122, 121, 122);
+}
+.yellow {
+  color: rgb(234, 191, 0);
+}
+
+.red {
+  color: red;
+}
+
+.black{
+  color: black;
+}
+
+.border {
+  border: 2px solid red;
+}
